@@ -58,7 +58,6 @@ public class BaseRealmDao<T extends RealmModel> implements BaseDaoAble {
 
     /**
      * 返回所有的User对象,并按照名字首字母排序
-     *
      * @return User对象表
      * @throws SQLException
      */
